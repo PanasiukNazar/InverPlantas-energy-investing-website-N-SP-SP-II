@@ -5435,12 +5435,12 @@ a.badge-dark:focus {
     font-size: 1.5rem;
     font-weight: 700;
     line-height: 1;
-    color: #000;
+    color: #3E282BFF;
     text-shadow: 0 1px 0 #fff;
     opacity: 0.5;
 }
 .close:hover {
-    color: #000;
+    color: #3E282BFF;
     text-decoration: none;
 }
 .close:not(:disabled):not(.disabled):focus,
@@ -5605,7 +5605,7 @@ a.close.disabled {
     z-index: 1040;
     width: 100vw;
     height: 100vh;
-    background-color: #000;
+    background-color: #3E282BFF;
 }
 .modal-backdrop.fade {
     opacity: 0;
@@ -5750,7 +5750,7 @@ a.close.disabled {
 .bs-tooltip-top .arrow::before {
     top: 0;
     border-width: 0.4rem 0.4rem 0;
-    border-top-color: #000;
+    border-top-color: #3E282BFF;
 }
 .bs-tooltip-auto[x-placement^="right"],
 .bs-tooltip-right {
@@ -5766,7 +5766,7 @@ a.close.disabled {
 .bs-tooltip-right .arrow::before {
     right: 0;
     border-width: 0.4rem 0.4rem 0.4rem 0;
-    border-right-color: #000;
+    border-right-color: #3E282BFF;
 }
 .bs-tooltip-auto[x-placement^="bottom"],
 .bs-tooltip-bottom {
@@ -5780,7 +5780,7 @@ a.close.disabled {
 .bs-tooltip-bottom .arrow::before {
     bottom: 0;
     border-width: 0 0.4rem 0.4rem;
-    border-bottom-color: #000;
+    border-bottom-color: #3E282BFF;
 }
 .bs-tooltip-auto[x-placement^="left"],
 .bs-tooltip-left {
@@ -5796,14 +5796,14 @@ a.close.disabled {
 .bs-tooltip-left .arrow::before {
     left: 0;
     border-width: 0.4rem 0 0.4rem 0.4rem;
-    border-left-color: #000;
+    border-left-color: #3E282BFF;
 }
 .tooltip-inner {
     max-width: 200px;
     padding: 0.25rem 0.5rem;
     color: #fff;
     text-align: center;
-    background-color: #000;
+    background-color: #3E282BFF;
     border-radius: 0.25rem;
 }
 .popover {
@@ -9471,7 +9471,7 @@ a.text-dark:hover {
         display: none;
     }
     .badge {
-        border: 1px solid #000;
+        border: 1px solid #3E282BFF;
     }
     .table {
         border-collapse: collapse !important;
